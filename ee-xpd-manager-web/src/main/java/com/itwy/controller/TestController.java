@@ -7,6 +7,7 @@ public class TestController {
 		System.out.println("I Love You!");
 		System.out.println("You Love Me!");
 		System.out.println("We Love World!");
+		System.out.println("ha ha ha");
 	}
 	
 	@Test
@@ -14,6 +15,7 @@ public class TestController {
 		System.out.println("One World");
 	}
 
+	// 又来一行注释
 	// 这是一行注释
 	public void test003(){
 		System.out.println("We are family");
