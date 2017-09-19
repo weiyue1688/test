@@ -7,7 +7,7 @@ public class TestController {
 		System.out.println("I Love You!");
 		System.out.println("You Love Me!");
 		System.out.println("We Love World!");
-		System.out.println("ha ha ha");
+		System.out.println("ha ha");
 	}
 	
 	@Test
